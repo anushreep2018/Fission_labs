@@ -6,6 +6,8 @@ Created on Sat Apr  8 02:14:06 2017
 @author: Anushree
 
 
+Created of Python 3.5
+
 
 We are trying to find out smallest prime factor of  number of questions in each contest.
 
