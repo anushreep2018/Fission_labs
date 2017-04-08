@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr  8 13:30:29 2017
-
-@author: Anushree
-"""
 
 # -*- coding: utf-8 -*-
 """
