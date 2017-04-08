@@ -104,7 +104,7 @@ def main():
 
         pr=pr+1
     
-    #Print the result :First one is problem solved by herbal ,second one is problem solved by naren
+    #Print the result :First one is problem solved by herbal that is the smallest prime factor in given contest,second one is problem solved by naren
     print("Output: \n")
     for i in range(1,contests+1):
         print("%s %s \n"%(small_p[i],problems[i]-small_p[i]))
