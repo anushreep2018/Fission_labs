@@ -13,19 +13,19 @@ Created on Sat Apr  8 02:14:06 2017
 
 
 
-We are trying to find out smallest prime factor of  numberof questions in each contest.
+We are trying to find out smallest prime factor of  number of questions in each contest.
 
 Since  we need only the smallest prime factor of a number, we need to check the divisibility of the number with only prime numbers
 upto the square root of that number.Because we will get minimum prime factor only till sqrt(n),otherwise the number itslef is the smallest 
 prime factor.
 
-Generate prime numbers using variant seive of eranthoses 
+Generate prime numbers using variant of seive of eranthoses .
 
 Check prime numbers from 2 onwards until the square root of larget number or until all smallest prime factors are fetched
      --Check for each contest if smallest prime is already found 
      --If smallest prime is not found then check divisibility with this prime
      --If it is divisible update the smallest prime factor for that contest
-     --Also mark the mutiples of this prime number as not prime so that they are not checked if they are prime or not
+     --Also mark the mutiples of this prime number as not prime so that they are not checked later
           
 
 
