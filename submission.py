@@ -15,7 +15,9 @@ Created on Sat Apr  8 02:14:06 2017
 
 We are trying to find out smallest prime factor of  numberof questions in each contest.
 
-Since  we need only the smallest prime factor of a number, we need to check the divisibility of the number with only prime numbers upto the square root of that number.Because we will get prime factor only till sqrt(n),otherwise the number itslef is the smallest prime factor.
+Since  we need only the smallest prime factor of a number, we need to check the divisibility of the number with only prime numbers
+upto the square root of that number.Because we will get prime factor only till sqrt(n),otherwise the number itslef is the smallest 
+prime factor.
 
 Generate prime numbers using variant seive of eranthoses 
 
@@ -27,7 +29,8 @@ Check prime numbers from 2 onwards until the square root of larget number or unt
           
 
 
-This differes from Seive of Erathoses because we do not get all prime number till sqaure root of N but we stop when we have found smallest prime number for all contests.
+This differes from Seive of Erathoses because we do not get all prime number till sqaure root of N but we stop when we have found 
+smallest prime number for all contests.
 
 """
 
